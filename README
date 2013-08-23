@@ -1,4 +1,4 @@
-# Creating and deploying a rails app
+# Creating and deploying a rails app with puma + nginx
 
 Start with rails composer:
 
