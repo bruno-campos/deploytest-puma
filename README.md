@@ -8,7 +8,7 @@ Start with rails composer:
 Add capistrano and pg gems to Gemfile:
 
     gem 'capistrano'
-    gem 'pg', '0.12.2'
+    gem 'pg', '0.15.1'
 
 Start capistrano on dir (shell):
 
