@@ -87,7 +87,7 @@ Create puma, ningx and deploy configuration files under config folder: https://g
 
 Mark unicorn_init.sh file as exacutable:
 
-    chmod +x config/unicorn_init.sh
+    chmod +x config/puma_init.sh
 
 Commit and push it to github.
 
